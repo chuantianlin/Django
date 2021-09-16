@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'blog'#name of app we we tell the danjago we create a new app
+    'blog',#name of app we we tell the danjago we create a new app
+    'translator'
 ]
 
 MIDDLEWARE = [
